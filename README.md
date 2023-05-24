@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **deeply JavaScript**
 
-- 💬 Ask me about **Git,Sass,HTML,CSS**
+- 💬 Ask me about **Git, Sass, HTML, CSS**
 
 - 📫 How to reach me **mkhbeats@gmail.com**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/mkhbeats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkhbeats" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammadkhakshoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadkhakshoor" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19840739/mohammad-khakshoor?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19840739/mohammad-khakshoor?tab=profile" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mohammad khakshoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19840739/mohammad-khakshoor?tab=profile" height="30" width="40" /></a>
 <a href="https://instagram.com/m.khakshoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.khakshoor" height="30" width="40" /></a>
 </p>
 
